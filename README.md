@@ -1,6 +1,6 @@
 ## Hanchen Sun（孙瀚晨）
 
-I'm now a third-year undergraduate, School of Computer Science, Southeast University
+Third-year undergrad at the School of Computer Science and Engineering, Southeast University
 
 📧 213241731@seu.edu.cn
 
